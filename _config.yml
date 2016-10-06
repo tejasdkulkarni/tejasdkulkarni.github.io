@@ -11,9 +11,9 @@ title                    : "Tejas Kulkarni"
 title_separator          : "-"
 name                     : "Tejas Kulkarni"
 description              : "AI Researcher. Scientist at DeepMind. MIT PhD."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://tejasdkulkarni.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "tejasdkulkarni/tejasdkulkarni.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -70,6 +70,7 @@ social:
     - "https://twitter.com/tejasdkulkarni"
     - "https://github.com/mrkulk"
     - "https://scholar.google.com/citations?user=rrPyvsgAAAAJ&hl=en&authuser=1"
+    
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
@@ -81,9 +82,9 @@ analytics:
 author:
   name             : "Tejas D Kulkarni"
   avatar           : "bio-photo.jpg"
-  bio              : "Artificial Intelligence Researcher @ DeepMind. MIT PhD."
+  bio              : "AI Researcher. Scientist at DeepMind. MIT PhD."
   location         : "London"
-  email            :
+  email            : "tejasdkulkarni@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,8 +92,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
-  google_plus      :
+  github           : "mrkulk"
+  google_plus      : 
   keybase          :
   instagram        :
   lastfm           :
@@ -102,7 +103,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "tejasdkulkarni"
   vine             :
   weibo            :
   xing             :
