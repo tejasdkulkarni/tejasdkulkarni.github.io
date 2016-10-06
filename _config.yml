@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Tejas Kulkarni"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Tejas Kulkarni"
+description              : "Artificial Intelligence Researcher @ DeepMind. MIT PhD."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -67,7 +67,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+    - "https://twitter.com/tejasdkulkarni"
+    - "https://github.com/mrkulk"
+    - "https://scholar.google.com/citations?user=rrPyvsgAAAAJ&hl=en&authuser=1"
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
@@ -77,10 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Tejas D Kulkarni"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "."
+  location         : "London"
   email            :
   uri              :
   bitbucket        :
